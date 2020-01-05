@@ -26,8 +26,4 @@ function sayHiToGrandma(string) {
   }
 }
 
-function sayHiToGrandma(string) {
-  if (string === string.mixedCase()) {
-    return "I love you, too."
-  }
-}
+
